@@ -16,7 +16,7 @@ do_action( 'hestia_before_single_post_wrapper' );
 		<div class="container">
 			<?php
 			if ( function_exists('yoast_breadcrumb') ) {
-				yoast_breadcrumb( '<p id="breadcrumbs">','</p>' );
+				yoast_breadcrumb( '<p style="margin-top:5px;" id="breadcrumbs">','</p>' );
 			}
 			if ( have_posts() ) :
 				while ( have_posts() ) :
