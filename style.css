@@ -15,10 +15,9 @@ Text Domain:    hestia-pro-child
     #carousel-hestia-generic .hestia-title {
         font-size: 67px;
     }
-}
-
-#carousel-hestia-generic span.sub-title {
-    font-size: 40px;
+    #carousel-hestia-generic span.sub-title {
+        font-size: 40px;
+    }
 }
 
 .page-header {
