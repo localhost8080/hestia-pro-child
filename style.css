@@ -23,3 +23,7 @@ Text Domain:    hestia-pro-child
 .page-header {
     margin-top: 0 !important;
 }
+
+.section.section-blog-info .col-md-6 {
+    width: 100% !important;
+}
