@@ -10,3 +10,13 @@ License:        GNU General Public License v2 or later
 License URI:    http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:    hestia-pro-child
 */
+
+@media (min-width: 769px) {
+    #carousel-hestia-generic .hestia-title {
+        font-size: 67px;
+    }
+}
+
+#carousel-hestia-generic span.sub-title {
+    font-size: 40px;
+}
