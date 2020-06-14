@@ -13,10 +13,10 @@ Text Domain:    hestia-pro-child
 
 @media (min-width: 769px) {
     #carousel-hestia-generic .hestia-title {
-        font-size: 67px;
+        font-size: 67px !important;
     }
     #carousel-hestia-generic span.sub-title {
-        font-size: 40px;
+        font-size: 40px !important;
     }
 }
 
