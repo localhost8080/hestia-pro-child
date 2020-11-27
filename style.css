@@ -142,9 +142,9 @@ body,
     margin-left: 0;
 }
 
-.single-post p,
-.single-post div,
-.single-post h1,
+.single-post-wrap p,
+.single-post-wrap div,
+.single-post- h1,
 .single-post h2.single-post h3,
 .single-post pre,
 .single-post code {
@@ -278,4 +278,16 @@ body,
 #comments,
 #comments p {
     color: white;
+}
+
+h4.card-title.entry-title {
+    min-height: 3em;
+    max-height: 3em;
+    overflow: hidden;
+}
+
+.card.card-blog p.card-description {
+    min-height: 8em;
+    max-height: 8em;
+    overflow: hidden;
 }
