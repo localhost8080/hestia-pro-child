@@ -27,3 +27,255 @@ Text Domain:    hestia-pro-child
 .section.section-blog-info .col-md-6 {
     width: 100% !important;
 }
+
+body .wrapper .main {
+    overflow: hidden;
+}
+
+@media(max-width:768px) {
+    .navbar-header {
+        margin-left: 0 !important;
+    }
+}
+
+.main {
+    background: #444;
+}
+
+.hestia-title,
+.hestia-title a,
+.hestia-title a:hover,
+.title,
+.title a,
+.title a:hover,
+.card-title,
+.card-title a,
+.card-title a:hover,
+.info-title,
+.info-title a,
+.info-title a:hover,
+.footer-brand,
+.footer-brand a,
+.footer-brand a:hover,
+.footer-big h4,
+.footer-big h4 a,
+.footer-big h4 a:hover,
+.footer-big h5,
+.footer-big h5 a,
+.footer-big h5 a:hover,
+.media .media-heading,
+.media .media-heading a,
+.media .media-heading a:hover,
+.woocommerce ul.products[class*="columns-"] li.product-category h2,
+.woocommerce ul.products[class*="columns-"] li.product-category h2 a,
+.woocommerce ul.products[class*="columns-"] li.product-category h2 a:hover {
+    color: white;
+}
+
+button,
+button:hover,
+input[type="submit"],
+input[type="submit"]:hover,
+input[type="button"],
+input[type="button"]:hover,
+input#searchsubmit,
+.btn.btn-primary,
+.btn.btn-primary:hover,
+.btn.btn-primary:focus,
+.btn.btn-primary:active,
+.btn.btn-primary.active,
+.btn.btn-primary:active:focus,
+.btn.btn-primary:active:hover,
+.btn.btn-primary.active:focus,
+.btn.btn-primary.active:hover,
+.open>.btn.btn-primary.dropdown-toggle,
+.open>.btn.btn-primary.dropdown-toggle:focus,
+.open>.btn.btn-primary.dropdown-toggle:hover {
+    color: black;
+}
+
+.section-gray {
+    background: #444
+}
+
+.btn-primary {
+    border-color: #ffd000;
+}
+
+.card-pricing ul li b {
+    color: #ffd000;
+}
+
+.card.card-raised,
+.card.card-blog {
+    background: #666;
+}
+
+.navbar.navbar-transparent,
+.navbar-default,
+.page-header {
+    border-bottom: none;
+}
+
+body,
+.card,
+.card-no-width {
+    color: #fff;
+}
+
+.card-blog .row .category a,
+.category.text-info a {
+    color: #ffd000 !important;
+}
+
+.label {
+    color: black;
+}
+
+.navbar-brand {
+    clear: both;
+    display: block;
+}
+
+.post-template-default .single-post-container {
+    width: 100%;
+    margin-left: 0;
+}
+
+.single-post p,
+.single-post div,
+.single-post h1,
+.single-post h2.single-post h3,
+.single-post pre,
+.single-post code {
+    margin-bottom: 2em !important;
+}
+
+body .wrapper .main {
+    overflow: hidden;
+}
+
+@media(max-width:768px) {
+    .navbar-header {
+        margin-left: 0 !important;
+    }
+}
+
+.main {
+    background: #444;
+}
+
+.hestia-title,
+.hestia-title a,
+.hestia-title a:hover,
+.title,
+.title a,
+.title a:hover,
+.card-title,
+.card-title a,
+.card-title a:hover,
+.info-title,
+.info-title a,
+.info-title a:hover,
+.footer-brand,
+.footer-brand a,
+.footer-brand a:hover,
+.footer-big h4,
+.footer-big h4 a,
+.footer-big h4 a:hover,
+.footer-big h5,
+.footer-big h5 a,
+.footer-big h5 a:hover,
+.media .media-heading,
+.media .media-heading a,
+.media .media-heading a:hover,
+.woocommerce ul.products[class*="columns-"] li.product-category h2,
+.woocommerce ul.products[class*="columns-"] li.product-category h2 a,
+.woocommerce ul.products[class*="columns-"] li.product-category h2 a:hover {
+    color: white;
+}
+
+button,
+button:hover,
+input[type="submit"],
+input[type="submit"]:hover,
+input[type="button"],
+input[type="button"]:hover,
+input#searchsubmit,
+.btn.btn-primary,
+.btn.btn-primary:hover,
+.btn.btn-primary:focus,
+.btn.btn-primary:active,
+.btn.btn-primary.active,
+.btn.btn-primary:active:focus,
+.btn.btn-primary:active:hover,
+.btn.btn-primary.active:focus,
+.btn.btn-primary.active:hover,
+.open>.btn.btn-primary.dropdown-toggle,
+.open>.btn.btn-primary.dropdown-toggle:focus,
+.open>.btn.btn-primary.dropdown-toggle:hover {
+    color: black;
+}
+
+.section-gray {
+    background: #444
+}
+
+.btn-primary {
+    border-color: #ffd000;
+}
+
+.card-pricing ul li b {
+    color: #ffd000;
+}
+
+.card.card-raised,
+.card.card-blog {
+    background: #666;
+}
+
+.navbar.navbar-transparent,
+.navbar-default,
+.page-header {
+    border-bottom: none;
+}
+
+body,
+.card,
+.card-no-width {
+    color: #fff;
+}
+
+.card-blog .row .category a,
+.category.text-info a {
+    color: #ffd000 !important;
+}
+
+.label {
+    color: black;
+}
+
+.navbar-brand {
+    clear: both;
+    display: block;
+}
+
+.post-template-default .single-post-container {
+    width: 100%;
+    margin-left: 0;
+}
+
+.single-post-wrap p,
+.single-post-wrap div,
+.single-post-wrap h1,
+.single-post-wrap h2,
+.single-post-wrap h3,
+.single-post-wrap pre,
+.single-post-wrap code {
+    margin-bottom: 2em !important;
+}
+
+#comments,
+#comments p {
+    color: white;
+}
